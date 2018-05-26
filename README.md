@@ -1,5 +1,5 @@
 # Tacotron-Pytorch
-A PyTorch implementation of Tacotron.
+An efficient PyTorch implementation of Tacotron.
 
 Paper: [Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model](https://arxiv.org/abs/1703.10135)
 
